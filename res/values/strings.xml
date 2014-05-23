@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Door</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Name</string>
+    <string name="senha">Pass</string>
+    <string name="abrate">○○</string>
+
+</resources>
